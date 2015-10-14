@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+  <description>Create the deployable application archive
+     Include the EJB and client application together with the necessary API libraries</description>
+  <display-name>SimpleApplicationForApplicationClient</display-name>
+  <module>
+    <ejb>ejb.jar</ejb>
+  </module>
+  <module>
+    <java>simpleClient.jar</java>
+  </module>
+</application>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+  <description>JBoss EAP Quickstart: EJB throws exception, caught by web layer</description>
+  <display-name>jboss-ejb-throws-exception-ear</display-name>
+  <module>
+    <web>
+      <web-uri>jboss-ejb-throws-exception-web.war</web-uri>
+      <context-root>/jboss-ejb-throws-exception-web</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>jboss-ejb-throws-exception-ejb.jar</ejb>
+  </module>
+  <library-directory>lib</library-directory>
+</application>

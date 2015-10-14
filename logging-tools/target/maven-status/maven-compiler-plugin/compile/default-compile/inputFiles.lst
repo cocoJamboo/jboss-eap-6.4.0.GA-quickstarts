@@ -1,0 +1,8 @@
+/home/wtf/git_repository/jboss-tutorials/jboss-eap-6.4.0.GA-quickstarts/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/loggers/GreeterLogger.java
+/home/wtf/git_repository/jboss-tutorials/jboss-eap-6.4.0.GA-quickstarts/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/exceptions/DateExceptionsBundle.java
+/home/wtf/git_repository/jboss-tutorials/jboss-eap-6.4.0.GA-quickstarts/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/exceptions/LocaleInvalidException.java
+/home/wtf/git_repository/jboss-tutorials/jboss-eap-6.4.0.GA-quickstarts/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/DateService.java
+/home/wtf/git_repository/jboss-tutorials/jboss-eap-6.4.0.GA-quickstarts/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/exceptions/GreeterExceptionBundle.java
+/home/wtf/git_repository/jboss-tutorials/jboss-eap-6.4.0.GA-quickstarts/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/loggers/DateLogger.java
+/home/wtf/git_repository/jboss-tutorials/jboss-eap-6.4.0.GA-quickstarts/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/messages/GreetingMessagesBundle.java
+/home/wtf/git_repository/jboss-tutorials/jboss-eap-6.4.0.GA-quickstarts/logging-tools/src/main/java/org/jboss/as/quickstarts/loggingToolsQS/GreeterService.java
